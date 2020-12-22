@@ -9,7 +9,7 @@ Check it out [live](http://hesitant-twist.surge.sh/)
 ### Getting Started
 1. Clone the repository.
 ```
-git clone 
+git clone https://github.com/Dagmawi-Beyene/Jammming.git
 ```
 2. Install all dependencies with NPM.
 ```
