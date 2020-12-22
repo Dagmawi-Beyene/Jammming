@@ -6,7 +6,8 @@ A react web application that uses the spotify API and allows users to search the
 
 Check it out [live](http://hesitant-twist.surge.sh/) 
 
-### Getting Started
+## Getting Started
+
 1. Clone the repository.
 ```
 git clone https://github.com/Dagmawi-Beyene/Jammming.git
